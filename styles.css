@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    background-color: black;
+    color:white;
+    padding:10px;
+    text-align: center;
+}
+#Navigation{
+    background-color:rgb(73, 71, 71);
+    color:white;
+    padding:10px;
+    text-align: center;
+}
+#content-area{
+    display:flex;
+}
+#content-area section{
+    background-color: antiquewhite;
+    text-align: center;
+    margin:10px;
+    padding:20px;
+}
+#Aside{
+    background-color:rgb(73, 71, 71);
+    color:white;
+    padding:10px;
+    text-align: center;
+}
+#Footer{
+    background-color:black;
+    color:white;
+    padding:10px;
+    text-align: center;
+}
